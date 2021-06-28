@@ -1,2 +1,2 @@
 # zookeepr
-creeated by Alexander Aranda
+created by Alexander Aranda
